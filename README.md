@@ -1,2 +1,2 @@
-# Website-Clone
-Clones of popular Websites
+# Netflix_Clone
+A simple Netflix Clone created using HTML and CSS
